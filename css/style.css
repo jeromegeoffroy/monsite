@@ -1,0 +1,44 @@
+* {
+  font-family: 'Oswald', sans-serif;
+  color: #36465d;
+}
+*, h4, h5, h6 {
+  font-weight: 400;
+}
+h1, h2, h3, dt {
+  font-weight: 700;
+}
+p, dl, small {
+  font-weight: 200;
+}
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.section {
+  margin-bottom: 5rem; 
+}
+.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
+a, a:hover {
+  color: #5cb85c;
+}
+.bg-inverse {
+    background-color: #36465d!important;
+}
+hr {
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+}
+.small, small {
+  font-size: 85%;
+}
+.blockquote {font-style: italic;}
+.badge {font-weight: 300;}
